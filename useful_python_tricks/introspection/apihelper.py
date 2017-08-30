@@ -3,6 +3,8 @@
 This program is part of "Dive Into Python", a free Python book for
 experienced programmers.  Visit http://diveintopython.org/ for the
 latest version.
+
+Modified by Shanyun Gao, 06/08/2017
 """
 
 __author__ = "Mark Pilgrim (mark@diveintopython.org)"

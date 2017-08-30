@@ -31,7 +31,7 @@ class max_BinHeap:
                 self.keylist[i] = self.keylist[mc]
                 self.keylist[mc] = tmpkey
             i = mc
-                
+
     def maxchild(self,i):
         if i * 2 + 1 > self.currentsize:
             return i * 2
