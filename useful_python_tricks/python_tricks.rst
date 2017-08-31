@@ -34,4 +34,31 @@ Useful Python Tricks
         a
         b
         c
-        >>> 
+        >>>
+
+
+Indent Problem
+--------------
+
+* To check if there is indent problem
+
+
+  .. code-block:: python
+
+       $ python -m tabnanny file.py
+
+
+* To see all `tab` in Vim editor
+
+
+  .. code-block:: python
+
+       :set list
+
+
+* Replace all the `tab` with spaces
+
+
+  .. code-block:: python
+
+       :%retab
