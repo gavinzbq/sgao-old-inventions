@@ -17,7 +17,7 @@ Adding an existing project to Github using the command line
 
   .. code-block:: python
 
-        echo "# repo-name" >> README.md
+        $ echo "# repo-name" >> README.md
         $ git init
 
 5. Add the files in your new local repository. This stages them for the first commit.
@@ -48,7 +48,7 @@ Adding an existing project to Github using the command line
 
   .. code-block:: python
 
-        $ git remote add origin *remote repository URL*
+        $ git remote add origin remote-repository-URL
         # Sets the new remote
         $ git remote -v
         # Verifies the new remote URL
