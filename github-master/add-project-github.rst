@@ -4,7 +4,7 @@ Adding an existing project to Github using the command line
 1. Create a new repository on Github
 ------------------------------------
 
-..note:: To avoid errors, do not initialize with *README*, license, or "gitignore" files.
+.. note:: To avoid errors, do not initialize with *README*, license, or "gitignore" files.
 
 2. Open Terminal
 ----------------
